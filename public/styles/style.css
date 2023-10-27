@@ -1,0 +1,33 @@
+.all-cards {
+  display: grid;
+  gap: 15px;
+}
+
+.card {
+  display: grid;
+  gap: 10px;
+  background-color: gray;
+  width: fit-content;
+  padding: 15px 25px 15px 25px;
+  border-radius: 20px;
+}
+
+.post-name {
+  color: white;
+  font-size: 25px;
+}
+
+.post-date {
+  font-size: 12px;
+  font-style: italic;
+}
+
+.post-text {
+  font-size: 20px;
+}
+
+.new-message {
+  font-size: 25px;
+  margin: 10px;
+  padding: 15px;
+}
